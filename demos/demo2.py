@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 
-image_path = 'carr.jpeg'  # Replace with your image path
+image_path = 'demo2_image.jpeg'  # Replace with your image path
 img = cv2.imread(image_path)
 if img is None:
     print("Error: Image not loaded. Check the image path.")
