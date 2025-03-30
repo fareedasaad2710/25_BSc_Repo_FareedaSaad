@@ -14,10 +14,7 @@ Three demo scripts were implemented to showcase key functionalities of AutoAnnot
 ✅ **Demo 3:** Vehicle Annotation using CVAT - This demo demonstrates the process of manually annotating vehicle images using the CVAT (Computer Vision Annotation Tool) platform. Multiple vehicle images were uploaded to CVAT, where 3d bounding boxes and key feature points were manually labeled.
 
 
-## 📸 Annotations & Media
-Experience AutoAnnotate in action with sample images and a demonstration video:
-🖼️ ![Annotated Vehicles](<INSERT_IMAGE_LINK_HERE>)
-📹 [Annotation Process Video](<INSERT_VIDEO_LINK_HERE>)
+
 
 ## 🚀 Installation & Usage
 To use AutoAnnotate and run the demo scripts, follow these steps:
